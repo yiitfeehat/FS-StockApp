@@ -76,7 +76,7 @@ const Login = () => {
             >
               {"Copyright © "}
               <Link color="inherit" href="https://www.github.com/UYSALCORP">
-                UYSALCORP
+                ferzerker.
               </Link>{" "}
               {new Date().getFullYear()}
               {"."}
